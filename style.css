@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    https://storyscaping.codrean.com/tastra-child-theme/
+ Description:  Astra Child Theme
+ Author:       Ioana Codrean
+ Author URI:   https://storyscaping.codrean.com/
+ Template:     astra
+ Version:      1.1.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachildtheme
+*/
+
+body {
+	background: #0e3854 !important;
+}
