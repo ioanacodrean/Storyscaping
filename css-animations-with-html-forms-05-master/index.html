@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JP Kontak mig Form</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <div class="box slide-top" id="slideBox">
+       <!--x-botton-->
+        <div class="popupCloseButton" id="closeButton">X</div>
+       <!--image-->
+        <div class="logo"><img src="img/OWL-SUGGESTIN1.png" alt="newspaper logo"></div>
+        
+        <div id="promotion-header">
+        <!--header-text-->
+            <h4 id="header">New to HT. LANGS HF &amp; VUC?<span id="promotion-subheader-title">Enter your email address to unlock your future</span></h4>
+        </div>
+        
+        <!--email-->
+        <form method="post" action="#" class="email-form">
+            <div class="input-holder field-text">
+                <div class="field-element ">
+                    <input type="email" name="email" id="emailField" class="textbox" placeholder="Your email address">
+                    <p class="newstudents">FOR NEW STUDENTS ONLY.</p>
+                </div>
+            </div>
+            
+            
+            <!--button-->
+            <div class="button-holder">
+                <div class="button-element ">
+                    <button class="btn btn-primary btn-lg active" role="button">SUBMITE</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#closeButton").click(function() {
+                $("#slideBox").hide();
+            });
+        });
+    </script>
+
+
+
+</body></html>
+           
+      
