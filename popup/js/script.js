@@ -6,6 +6,6 @@ jQuery(document).ready(function( $ ) {
 
 jQuery(document).ready(function( $ ) {
   $('#submitBtn').on('click', function() {
-    $('.login-form').hide();
+    $('.popup-form').hide();
   })
 });
