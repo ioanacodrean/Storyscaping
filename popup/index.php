@@ -1,11 +1,11 @@
 <?php
 /*
 * Plugin Name: Owl Popup 
-* Plugin URI: http://localhost/learningwordpress/cheers
-* Description: This is a Newsletter Signup form Plugin for Cheers based on HTML5, CSS, JS and PHP
+* Plugin URI: https://storyscaping.codrean.dk
+* Description: TH. LANGS counselor popup for frontpage 
 * Version: 0.9.9
-* Author: Murat Kilic
-* Author URI: http://localhost/learningwordpress/cheers
+* Author: Pernille Graff, Bodil Fomsgaard, Branko Vlahov & Ioana Codrean
+* Author URI: https://storyscaping.codrean.dk
 * License: GPL2
 */
 
