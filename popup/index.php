@@ -3,7 +3,7 @@
 * Plugin Name: Owl Popup 
 * Plugin URI: http://localhost/learningwordpress/cheers
 * Description: This is a Newsletter Signup form Plugin for Cheers based on HTML5, CSS, JS and PHP
-* Version: 2.9.9
+* Version: 0.9.9
 * Author: Murat Kilic
 * Author URI: http://localhost/learningwordpress/cheers
 * License: GPL2
